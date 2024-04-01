@@ -18,7 +18,7 @@
 - 2009 Graduated from High School.
      - Started College at [KVCC](https://www.kvcc.edu/).
      - Started Programming in C#.
-- 2010 Joined [Twitter](https://twitter.com/BenVlodgi)
+- 2010 Joined [Twitter](https://twitter.com/BenVlodgi/status/10715280539918336)
 - 2013 Graduated with B.S. in Computer Science from [GVSU](https://www.gvsu.edu/).
 - 2016 ❤ Met my wife
 - 2017 Left corporate software to make indie games.
