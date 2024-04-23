@@ -12,9 +12,10 @@
   
 - 1991 Born
 - 2000 Played a lot of [Chips Challenge](https://store.steampowered.com/app/346850/Chips_Challenge_1/).
+- 2004 Started using my first level editor for [Super Tux](https://www.supertux.org/)
 - 2005 Started Programming in TI-BASIC.
-- 2007 Started Programming in C++.
-- 2008 🤍 Fell in love with [Portal](https://store.steampowered.com/app/400/Portal/) by [Valve](https://www.valvesoftware.com/).
+- 2008 Started Programming in C++.
+     - 🤍 Fell in love with [Portal](https://store.steampowered.com/app/400/Portal/) by [Valve](https://www.valvesoftware.com/).
 - 2009 Graduated from High School.
      - Started College at [KVCC](https://www.kvcc.edu/).
      - Started Programming in C#.
