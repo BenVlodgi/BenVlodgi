@@ -23,8 +23,8 @@
 - 2013 Graduated with B.S. in Computer Science from [GVSU](https://www.gvsu.edu/).
 - 2016 ❤ Met my wife
 - 2017 Left corporate software to make indie games.
-- 2019 ❤ Married my wife
-     - Joined [Supra Games](https://twitter.com/SupraGamesUG).
+- 2018 ❤ Married my wife
+- 2019 Joined [Supra Games](https://twitter.com/SupraGamesUG).
 - 2020 We released [Supraland: Crash](https://store.steampowered.com/app/1093730/Supraland_Crash/)
      - 👶🏼👶🏼 Became a dad
 - 2022 We released [Supraland: Six Inches Under](https://store.steampowered.com/app/1522870/Supraland_Six_Inches_Under/)
