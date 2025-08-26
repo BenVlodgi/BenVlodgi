@@ -30,7 +30,7 @@
 - 2022 We released [Supraland: Six Inches Under](https://store.steampowered.com/app/1522870/Supraland_Six_Inches_Under/).
      - 👶🏼 New spawn arrived.
 - 2025 👶🏼 Final offspring emerged.
-- Today We're working on [Supraworld](https://store.steampowered.com/app/1869290/Supraworld/)!
+     - We released [Supraworld](https://store.steampowered.com/app/1869290/Supraworld/)'s Act 1 into Early Access, and are continuing to develop that for its full release.
   
 </details>
 
